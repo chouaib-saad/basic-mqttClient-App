@@ -3,7 +3,7 @@
 
 ## Prerequisites
 * programing: Java
-* MQTT Client: [Paho](https://github.com/eclipse/paho.mqtt.android)
+* programmer : chouaib saad
 
  
 ## Run
