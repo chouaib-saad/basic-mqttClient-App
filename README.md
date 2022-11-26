@@ -8,3 +8,7 @@
  
 ## Run
 Open the project in Android Studio, connect the virtual machine or device, and run
+
+
+## more details here :
+uploaded soon..
